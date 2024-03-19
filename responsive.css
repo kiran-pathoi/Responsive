@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: red;
+}
+@media only screen and (max-width: 1600px){
+    body{
+        background-color: blue;
+    }
+}
+@media only screen and (max-width: 1400px){
+    body{
+        background-color: green;
+    }
+}
+@media only screen and (max-width: 1200px){
+    body{
+        background-color: yellow;
+    }
+}
+@media only screen and (max-width: 1000px){
+    body{
+        background-color: pink;
+    }
+}
+@media only screen and (max-width: 800px){
+    body{
+        background-color: skyblue;
+    }
+}
+@media only screen and (max-width: 600px){
+    body{
+        background-color: tomato;
+    }
+}
+@media only screen and (max-width: 400px){
+    body{
+        background-color: yellowgreen;
+    }
+}
