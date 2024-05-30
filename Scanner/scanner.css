@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+body{
+    background-color: #d5e1ef;
+}
+
+.white{
+    width: 25%;
+    height: 550px;
+    background-color: #ffffff;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 120px;
+}
+.sky-blue{
+    width: 90%;
+    height: 350px;
+    background-color: #2b7dfa;
+    border-radius: 10px;
+    position: relative;
+    top:20px;
+    left: 20px;
+
+}
+img{
+    width: 75%;
+    height: 250px;
+    position: relative;
+    top:50px;
+    left: 40px; 
+}
+.white> h3{
+    font-size: 22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 600;
+    padding-top: 40px;
+    text-align: center;
+}
+.white> p{
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 20px;
+    color: #a1a4ae;
+    text-align:center;
+}
